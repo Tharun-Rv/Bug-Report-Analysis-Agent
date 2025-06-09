@@ -1,2 +1,14 @@
-# Bug-Report-Analysis-Agent
-🐞 Bug Report Analysis Agent An intelligent, AI-powered agent built using Retrieval-Augmented Generation (RAG) to analyze, summarize, and assist with bug reports. This project streamlines software issue resolution by providing contextual understanding and smart suggestions, making debugging faster and more efficient
+---
+title: Bug Report Agent
+emoji: 👁
+colorFrom: pink
+colorTo: red
+sdk: gradio
+sdk_version: 5.32.0
+app_file: app.py
+pinned: false
+license: apache-2.0
+short_description: Bug Report Analaysis Agent Using Rag
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
